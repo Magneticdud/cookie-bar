@@ -1,7 +1,7 @@
 Permission Bar
 =============
 
-Sta gran cazzata della legge dei cookie, dimostrazione palese che chi ha proposto questa legge europea non capisce un *azzo di compiuter.
+Sta gran cazzata della legge dei cookie, dimostrazione palese che chi ha proposto questa legge europea non capisce un cazzo di compiuter.
 
 ##### Ma perchéééé??????
 
