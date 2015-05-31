@@ -198,7 +198,7 @@ function setupCookieBar() {
      * @return null
      */
     function setCookie(c_name, value) {
-        var exdays = 30;
+        var exdays = 99999;
         if (getURLParameter("remember")) {
             exdays = getURLParameter("remember");
         }
